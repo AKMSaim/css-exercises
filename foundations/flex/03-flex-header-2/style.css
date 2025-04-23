@@ -15,18 +15,17 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 8px;
-  align-items: center;
 }
 
 .first-4 {
   display: flex;
-  justify-content: center;
+  align-items: center;
   gap: 16px;
 }
 
 .second-2 {
   display: flex;
-  justify-content: center;
+  align-items: center;
   gap: 16px;
 }
 
@@ -64,5 +63,5 @@ ul {
   display: flex;
   gap: 16px;
   padding: 0;
-  margin: auto;
+  margin: 0;
 }
